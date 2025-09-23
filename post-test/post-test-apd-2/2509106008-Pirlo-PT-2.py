@@ -3,12 +3,10 @@ namaPasien = input("Nama Pasien: ")
 tinggiBadan = int(input("Tinggi Badan(cm): "))
 beratBadan = int(input("Berat Badan(kg): "))
 
-#hitung berat ideal
-beratIdeal = tinggiBadan - 100
-
 #cek status
-statusList = ["Normal", "Kelebihan Berat Badan"]
+beratIdeal = tinggiBadan - 100
 isKelebihan = beratBadan > beratIdeal
+statusList = ["Normal", "Kelebihan Berat Badan"]
 status = statusList[int(isKelebihan)]
 
 #hasil dari input
