@@ -33,9 +33,23 @@
 # status = "lulus" if nilai >= 60 else "tidak lulus"
 # print(status)
 
-# tinggi = 145
-
+# tinggi = float(input("masukkan tinggi anda: "))
 # if tinggi >= 145:
 #     print("boleh masuk")
 # else:
 #     print("tidak boleh masuk")
+
+# harga = float(input("masukkan harga pakaian: "))
+
+# if harga > 100000:
+#     diskon = harga * (20/100)
+#     print("anda mendapatkan diskon 20%")
+#     print(f"total anda setelah diskon adalah: {diskon}")
+
+# elif harga > 500000:
+#     diskon = harga * (10/100)
+#     print("anda mendapatkan diskon 10%")
+#     print(f"total anda setelah diskon adalah: {diskon}")
+# else:
+
+#     print("anda tidak mendapatkan diskon")
