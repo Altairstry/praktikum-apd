@@ -30,7 +30,6 @@ while True:
             print("Login gagal 3x! Anda masuk sebagai Non-Member.")
     else:
         print("Masuk sebagai Non-Member. Selamat berbelanja.\n")
-
     
     keranjang = ""
     total_belanja = 0
