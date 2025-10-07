@@ -46,9 +46,9 @@
 #     print(f"Angka genap ditemukan: {i}")
 # print("\nProgram selesai.")
 
-h = 5
-for i in range(1,h):
-    bKiri = "*" * i 
-    tes = " "*((h-i)*2)
-    bKanan = "*" * i 
-    print(bKiri + tes + bKanan)
+# h = 5
+# for i in range(1,h):
+#     bKiri = "*" * i 
+#     tes = " "*((h-i)*2)
+#     bKanan = "*" * i 
+#     print(bKiri + tes + bKanan)
