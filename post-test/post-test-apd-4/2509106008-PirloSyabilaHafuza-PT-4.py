@@ -3,8 +3,6 @@ produk_1, harga_1 = "Laptop", 8500000
 produk_2, harga_2 = "Headset Gaming", 350000
 produk_3, harga_3 = "Keyboard Mechanical", 750000
 
-Username = "Pirlo"
-Password = "008"
 while True:
     os.system("cls")
     print("=== SELAMAT DATANG DI TOKO ELEKTRONIK ===")
@@ -20,7 +18,7 @@ while True:
             if Username == "" or Password == "":
                 percobaan -= 1
                 print(f"Username/password tidak boleh kosong! Sisa percobaan: {percobaan}")
-            elif Username == Username and Password == Password:
+            elif Username == "Pirlo" and Password == "008":
                 login = True
                 print("Login berhasil! Selamat berbelanja")
                 break
