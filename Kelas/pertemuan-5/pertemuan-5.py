@@ -1,6 +1,6 @@
-tugas = ("rangkuman", "arduino", "scrapping", "matriks", "visualisasi")
-(PTI, orsikom, basisdata, *manipulasiData) = tugas
-print(manipulasiData)
+# tugas = ("rangkuman", "arduino", "scrapping", "matriks", "visualisasi")
+# (PTI, orsikom, basisdata, *manipulasiData) = tugas
+# print(manipulasiData)
 
 #tuple menggunakan kurung dan hanya perlu menambahkan koma untuk dianggap tuple
 # aslab = ["harahap", "denny"]
