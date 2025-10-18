@@ -68,11 +68,11 @@
 # #Setelah Ditambah
 # print(Film)
 
-Nilai = {
-"Matematika" : 80,
-"B. Indonesia" : 90,
-"B. Inggris" : 81
-}
+# Nilai = {
+# "Matematika" : 80,
+# "B. Indonesia" : 90,
+# "B. Inggris" : 81
+# }
 
-print("Nilai : ", Nilai.setdefault("Kimia", 70))
-print(Nilai)
+# print("Nilai : ", Nilai.setdefault("Kimia", 70))
+# print(Nilai)
