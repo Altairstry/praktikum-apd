@@ -1,6 +1,6 @@
 import os
 
-pengguna = {"pirlo": "pirlo008"}  
+pengguna = {"Pirlo": "pirlo008"}  
 
 kontak_pengguna = {"pirlo": {}}
 
